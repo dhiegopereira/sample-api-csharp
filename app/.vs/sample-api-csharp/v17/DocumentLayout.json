@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\migrations\\20240404185813_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:migrations\\20240404185813_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\interfaces\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:interfaces\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\abstracts\\abstractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:abstracts\\abstractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|d:\\dhieg\\documents\\jobs\\devcollege\\sample-api-csharp\\app\\abstracts\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934BCA4F-9CF6-4D30-9ACB-7A17FAD8FFAE}|sample-api-csharp.csproj|solutionrelative:abstracts\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CustomerValidator.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "Validators\\CustomerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:30.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:24.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240404185813_InitialCreate.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Migrations\\20240404185813_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240404185813_InitialCreate.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Migrations\\20240404185813_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240404185813_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:22.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Middlewares\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\JwtMiddleware.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Middlewares\\JwtMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\JwtMiddleware.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:20.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Interfaces\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEntityRepository.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Interfaces\\IEntityRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:14.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:12.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerDTO.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:09.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:05.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AbstractService.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Abstracts\\AbstractService.cs",
+              "RelativeDocumentMoniker": "Abstracts\\AbstractService.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Abstracts\\AbstractService.cs",
+              "RelativeToolTip": "Abstracts\\AbstractService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:03.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbstractRepository.cs",
+              "DocumentMoniker": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Abstracts\\AbstractRepository.cs",
+              "RelativeDocumentMoniker": "Abstracts\\AbstractRepository.cs",
+              "ToolTip": "D:\\dhieg\\Documents\\Jobs\\DevCollege\\sample-api-csharp\\app\\Abstracts\\AbstractRepository.cs",
+              "RelativeToolTip": "Abstracts\\AbstractRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:51:00.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
